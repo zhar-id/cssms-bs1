@@ -3,5 +3,24 @@
   padding: 0;
 }
 .main {
-  background-color: antiquewhite;
+  background-color: rgba(250, 235, 215, 0.98);
+}
+.left {
+  margin-left: 8%;
+}
+.main-text {
+  margin-top: 4%;
+}
+.desk-text {
+}
+#image-container {
+  display: block;
+  border-radius: 50%;
+  background-color: brown;
+  position: relative;
+  width: fit-content;
+  margin: 0 auto;
+}
+#coffee-image {
+  padding: 20px;
 }
